@@ -25,8 +25,8 @@ def calculate_distance(rA, rB):
     
     Examples
     --------
-    >>> calculate_distance(np.array([0, 0, 0], [0, 0.1, 0]))
-    0.1
+    >>> calculate_distance(np.array(r1, r2)
+    0.1 <- this is the answer you're supposed to get
     """
     dist_vec = (rA - rB)
     distance = np.linalg.norm(dist_vec)
