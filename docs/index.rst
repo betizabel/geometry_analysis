@@ -20,6 +20,7 @@ A link to `Google <www.google.com>`_.
    :caption: Contents:
 
    anotherpage
+   api
 
 Indices and tables
 ==================
